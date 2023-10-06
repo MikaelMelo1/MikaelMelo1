@@ -32,7 +32,8 @@ These are some of the major technologies that I use or have worked on in the pas
  <a href = "mailto:mikaelsilva1940@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mikael-melo-095406218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-
+<div>
   ![Snake animation](https://github.com/MikaelMelo1/MikaelMelo1/blob/output/github-contribution-grid-snake.svg)
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=MikaelMelo1&repo=MikaelMelo1&theme=react)](https://github.com/MikaelMelo1)
+  </div>
 
