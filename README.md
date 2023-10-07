@@ -28,11 +28,26 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|
 <br>
     
-**Social network**
-    
- <a href = "mailto:mikaelsilva1940@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mikael-melo-095406218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+##
+
+
+<div align="center">
+<h3> My Contacts </h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mikael-melo-095406218/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href= "mailto:mikaelsilva1940@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  </a>
+   <a href="https://api.whatsapp.com/send?phone=5551997100865" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+
+
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikaelMelo1/MikaelMelo1/output/github-contribution-grid-snake-dark.svg">
