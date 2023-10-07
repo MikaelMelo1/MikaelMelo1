@@ -34,6 +34,20 @@ These are some of the major technologies that I use or have worked on in the pas
   <a href="https://www.linkedin.com/in/mikael-melo-095406218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
+
+##  GitHub Trophies
+     
 ![](https://github-profile-trophy.vercel.app/?username=MikaelMelo1&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+##
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+     
+##
+
+<div align="center">
+  <a href="https://github.com/MikaelMelo1/" target="_blank"><img src="https://profile-counter.glitch.me/MikaelMelo1/count.svg?"  />
+</div> 
+ 
+## 
 
