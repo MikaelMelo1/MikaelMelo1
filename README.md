@@ -2,9 +2,10 @@
 - 🔭 Today I work with front-end
 - 🌱 Studying ReactJS
 <div align="center">
-  <a href="https://github.com/MikaelMelo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMelo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMelo1&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MikaelMelo1&show_icons=true&bg_color=00000000" height="145" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikaelMelo1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="languages graph"/>   
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikaelMelo1&theme=tokyonight-duo" height="145" alt="wolwerr" />
+   
 </div>
   
   ##
