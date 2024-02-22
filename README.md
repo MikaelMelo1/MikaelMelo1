@@ -1,6 +1,6 @@
 ## Hi! I'm Mikae Melo
-- 🔭 Today I work with front-end
-- 🌱 Studying ReactJS
+- 🔭 Today I work with back-end
+- 🌱 Studying Java and Nodejs
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikaelMelo1&show_icons=true&bg_color=00000000" height="145" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikaelMelo1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="languages graph"/>   
