@@ -46,6 +46,7 @@ These are some of the major technologies that I use or have worked on in the pas
   </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/MikaelMelo1/MikaelMelo1/output/snake.svg" alt="Snake animation" />
 
 
 
